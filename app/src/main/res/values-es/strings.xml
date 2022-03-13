@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alter_ego">Alter ego</string>
+    <string name="bio">Biografía</string>
+    <string name="power">Poder</string>
+    <string name="save">Guardar</string>
+</resources>
